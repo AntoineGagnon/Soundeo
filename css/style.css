@@ -1,0 +1,72 @@
+body{
+	color: white;
+	background-image: url("../Ressources/Image/fond.jpg");	
+	font-family: 'Ruda', sans-serif;
+}
+
+h1{
+	color: white;
+}
+
+
+#footer{
+	background-color: #444444;
+	border-top: #CCC;
+	padding: 10px 10px 0px 10px;
+}
+
+#header{
+	margin-top: 5%;
+	background-color: #AAAAAA;
+	text-align: center;
+	border-radius: 30px 30px 0px 0px;
+}
+
+#contenu{
+	background-color: #505050;
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+
+#navbar{
+    border-top: 2px solid rgb(51,122,183);
+}
+
+.avis{
+	text-align: right;
+}
+
+.miniature{
+	padding	: 10px 10px 10px 10px;
+}
+
+.titre{
+	background: transparent url("../Ressources/Image/tile_claire.jpg");
+	border-top: solid 2px white;
+	padding-left: 20px;
+}
+
+.titreTop{
+	background: transparent url("../Ressources/Image/tile_claire.jpg");
+	padding	: 10px 10px 10px 10px;
+	text-align: center;
+}
+
+.row{
+	margin-right: 0px;
+	margin-left: 0px;
+}
+
+.controls{
+	color:black;
+}
+
+.navigPage{
+	font-size: 20px;
+	text-align: center; 
+	margin-top: 20px;
+}
+
+.container{
+	padding-left: 0px;
+}
